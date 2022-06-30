@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         // feat/#21
         // 1. 이슈를 판다 -> # 가 생성됨
         // 2. feat/#21 브랜치를 만든다
+
+        // test용 커밋
     }
 }
