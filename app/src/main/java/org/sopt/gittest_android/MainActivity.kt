@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         // 메인 작업 끝! (feature/MainActivity 브랜치에서 작업함)
         // feat/main
         // feat/setting
+        // 작업추가하고 브랜치를 지워볼게
 
         // feat/#21
         // 1. 이슈를 판다 -> # 가 생성됨
